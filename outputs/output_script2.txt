@@ -1,0 +1,7 @@
+====================================
+ Package Inspector - git
+====================================
+Status   : Installed ✅
+Location : /usr/bin/git
+Version  : git version 2.43.0
+====================================

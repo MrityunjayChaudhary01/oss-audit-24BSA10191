@@ -1,0 +1,14 @@
+====================================
+ Disk Auditor Report
+====================================
+Total: 1006 GB
+Used : 2 GB
+Free : 953 GB
+------------------------------------
+Files in current directory:
+script1_system_identity.py
+script2_package_inspector.py
+script3_disk_auditor.py
+script4_log_analyzer.py
+script5_manifest_generator.py
+====================================

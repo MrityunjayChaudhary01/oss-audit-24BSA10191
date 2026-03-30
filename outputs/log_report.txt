@@ -1,0 +1,14 @@
+====================================
+ Log Analyzer Report
+====================================
+Keyword: error
+
+Total matches: 1063
+
+Last 5 matches:
+WARNING: could not register distro to Landscape
+apport-autoreport.path skipped due to unmet condition
+apport-autoreport.timer skipped due to unmet condition
+RAS: Correctable Errors collector initialized
+WSL ERROR: CheckConnection: getaddrinfo() failed
+====================================v
