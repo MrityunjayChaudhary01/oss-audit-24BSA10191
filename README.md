@@ -1,41 +1,41 @@
-# Open Source Software Audit – Git
+# Open Source Software Audit, Git
 
-## 👨‍💻 Student Details
+## Student Details
 
-**Name:** Mrityunjay Chaudhary
-**Project Title:** Open Source Software Audit
+**Name:** Mrityunjay Chaudhary  
+**Project Title:** Open Source Software Audit  
 **Chosen Software:** Git
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-This project focuses on analyzing an open source software, **Git**, which is a widely used distributed version control system. The main objective of this audit is to understand how open source software works, how it is structured, and how it interacts with the system environment.
+This project focuses on examining open source software, **Git**, which is a popular distributed version control system. The main goal of this audit is to understand how open source software functions, its structure, and its interaction with the system environment.
 
-The project includes both theoretical understanding and practical implementation using Python scripts.
-
----
-
-## 🎯 Objectives
-
-* To study the concept of open source software
-* To analyze the working and importance of Git
-* To explore system-level interaction using Python
-* To develop automation scripts for system auditing
-* To understand real-world usage of open source tools
+The project combines theoretical understanding with practical implementation using Python scripts.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Objectives
 
-* **Operating System:** Ubuntu (WSL)
-* **Programming Language:** Python 3
-* **Software Audited:** Git
-* **Editor Used:** Nano / VS Code
+* To study the concept of open source software  
+* To analyze how Git works and its significance  
+* To explore system-level interaction using Python  
+* To develop automation scripts for system auditing  
+* To understand real-world use of open source tools  
 
 ---
 
-## 📂 Project Structure
+## Tools & Technologies Used
+
+* **Operating System:** Ubuntu (WSL)  
+* **Programming Language:** Python 3  
+* **Software Audited:** Git  
+* **Editor Used:** Nano / VS Code  
+
+---
+
+## Project Structure
 
 ```
 oss-audit-git/
@@ -60,42 +60,42 @@ oss-audit-git/
 
 ---
 
-## 🧠 Description of Scripts
+## Description of Scripts
 
-### 🔹 Script 1: System Identity
+### Script 1: System Identity
 
-This script displays basic system information such as user name, OS details, kernel version, and current date. It helps in understanding the environment in which the software is running.
-
----
-
-### 🔹 Script 2: Package Inspector
-
-This script checks whether Git is installed on the system or not. It also displays the version and installation path of Git.
+This script shows basic system information such as the user name, OS details, kernel version, and current date. It helps in understanding the environment where the software runs.
 
 ---
 
-### 🔹 Script 3: Disk Auditor
+### Script 2: Package Inspector
 
-This script analyzes disk usage including total, used, and free space. It also lists files present in the current directory.
-
----
-
-### 🔹 Script 4: Log Analyzer
-
-This script reads system logs and searches for specific keywords like "error". It counts occurrences and displays recent log entries.
+This script checks if Git is installed on the system. It also shows the version and installation path of Git.
 
 ---
 
-### 🔹 Script 5: Manifest Generator
+### Script 3: Disk Auditor
 
-This script takes user input and generates a text file containing project-related information. It demonstrates file handling and automation.
+This script reviews disk usage, including total, used, and free space. It lists files present in the current directory.
 
 ---
 
-## ▶️ How to Run the Project
+### Script 4: Log Analyzer
 
-1. Open terminal (Ubuntu/WSL)
-2. Navigate to scripts folder:
+This script reads system logs and looks for specific keywords like "error." It counts occurrences and shows recent log entries.
+
+---
+
+### Script 5: Manifest Generator
+
+This script collects user input and generates a text file with project-related information. It demonstrates file handling and automation.
+
+---
+
+## How to Run the Project
+
+1. Open terminal (Ubuntu/WSL)  
+2. Go to the scripts folder:
 
    ```
    cd oss-audit-git/scripts
@@ -114,36 +114,34 @@ python3 script1_system_identity.py
 
 ---
 
-## ⚠️ Challenges Faced
+## Challenges Faced
 
-* Permission issues while accessing system logs
-* Handling errors like `os.getlogin()` in WSL
-* Understanding Linux file structure
+* Issues with permissions when accessing system logs  
+* Handling errors like `os.getlogin()` in WSL  
+* Understanding the Linux file structure  
 
 These challenges were resolved using alternative methods and debugging.
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
-* Gained practical knowledge of open source software
-* Learned how Git works in real-world development
-* Improved Python scripting skills
-* Understood Linux system operations
-* Learned debugging and problem-solving techniques
-
----
-
-## 🏁 Conclusion
-
-This project helped me understand the importance of open source software and how tools like Git play a crucial role in modern development. It also enhanced my technical skills in Python and Linux, making me more confident in handling real-world systems.
+* Gained practical knowledge of open source software  
+* Learned how Git works in real-world development  
+* Improved Python scripting skills  
+* Understood Linux system operations  
+* Learned debugging and problem-solving techniques  
 
 ---
 
-## 🔗 References
+## Conclusion
 
-* Git Official Documentation
-* Linux Manual Pages
-* Python Documentation
+This project taught me the importance of open source software and how tools like Git are crucial in modern development. It also improved my technical skills in Python and Linux, boosting my confidence in managing real-world systems.
 
 ---
+
+## References
+
+* Git Official Documentation  
+* Linux Manual Pages  
+* Python Documentation  
